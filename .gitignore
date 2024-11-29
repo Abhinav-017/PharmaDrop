@@ -1,0 +1,33 @@
+# dependencies
+/node_modules
+/pharmadrop-app/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+/pharmadrop-app/coverage
+
+# production
+/build
+/pharmadrop-app/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/pharmadrop-app/.env
+/pharmadrop-app/.env.local
+/pharmadrop-app/.env.development.local
+/pharmadrop-app/.env.test.local
+/pharmadrop-app/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/pharmadrop-app/npm-debug.log*
+/pharmadrop-app/yarn-debug.log*
+/pharmadrop-app/yarn-error.log*
